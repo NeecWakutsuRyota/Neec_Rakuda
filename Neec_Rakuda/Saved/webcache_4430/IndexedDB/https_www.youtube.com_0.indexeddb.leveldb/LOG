@@ -1,0 +1,6 @@
+2022/11/29-02:39:30.204 93c Creating DB F:/UE4/sabaku/sabaku_rakuda 5.1/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/11/29-02:39:30.208 93c Reusing MANIFEST F:/UE4/sabaku/sabaku_rakuda 5.1/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/29-06:00:15.633 11ae0 Level-0 table #5: started
+2022/11/29-06:00:15.742 11ae0 Level-0 table #5: 7231 bytes OK
+2022/11/29-06:00:15.743 11ae0 Delete type=0 #3
+2022/11/29-06:00:15.743 11ae0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

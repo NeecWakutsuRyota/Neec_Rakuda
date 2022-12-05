@@ -1,0 +1,1342 @@
+﻿Log file open, 11/24/22 09:48:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=27028)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: sabaku_rakuda
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" F:\UE4\sabaku\sabaku_rakuda\sabaku_rakuda.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 3700X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="da95cd4a48a4d45717c629a0e38fa9de"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 12.330060
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-8777512A48EC47635CD934A1187D4A79
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.10 seconds
+LogConfig: Display: Loading Linux ini files took 0.10 seconds
+LogConfig: Display: Loading Android ini files took 0.11 seconds
+LogConfig: Display: Loading TVOS ini files took 0.11 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.13 seconds
+LogConfig: Display: Loading Mac ini files took 0.16 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/game/unrial/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.24-00.48.37:701][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.24-00.48.37:701][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.24-00.48.37:701][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.24-00.48.37:701][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.24-00.48.37:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.24-00.48.37:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.24-00.48.37:712][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.24-00.48.37:713][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.24-00.48.37:780][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.24-00.48.37:780][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.24-00.48.37:780][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.24-00.48.37:780][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.24-00.48.37:780][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.24-00.48.37:780][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.24-00.48.37:780][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.24-00.48.37:780][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.24-00.48.37:781][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.24-00.48.37:781][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.24-00.48.37:781][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.24-00.48.37:956][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.24-00.48.37:956][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.24-00.48.38:471][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2070 SUPER (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.24-00.48.38:471][  0]LogD3D12RHI: Adapter has 8012MB of dedicated video memory, 0MB of dedicated system memory, and 8157MB of shared system memory, 2 output[s]
+[2022.11.24-00.48.38:492][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.24-00.48.38:492][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8157MB of shared system memory, 0 output[s]
+[2022.11.24-00.48.38:492][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.24-00.48.38:492][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.24-00.48.38:508][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.24-00.48.38:512][  0]LogHAL: Display: Platform has ~ 16 GB [17108406272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.24-00.48.38:512][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.24-00.48.38:512][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.24-00.48.38:512][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.24-00.48.38:573][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.24-00.48.38:573][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UE4/sabaku/sabaku_rakuda/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.24-00.48.38:588][  0]LogInit: Computer: DESKTOP-AURECAI
+[2022.11.24-00.48.38:589][  0]LogInit: User: 和久津亮太
+[2022.11.24-00.48.38:589][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.24-00.48.38:589][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.24-00.48.38:589][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.11.24-00.48.38:589][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.24-00.48.38:589][  0]LogMemory: Process Physical Memory: 279.55 MB used, 294.17 MB peak
+[2022.11.24-00.48.38:589][  0]LogMemory: Process Virtual Memory: 247.92 MB used, 247.92 MB peak
+[2022.11.24-00.48.38:589][  0]LogMemory: Physical Memory: 8306.14 MB used,  8009.71 MB free, 16315.85 MB total
+[2022.11.24-00.48.38:589][  0]LogMemory: Virtual Memory: 14805.26 MB used,  23014.59 MB free, 37819.85 MB total
+[2022.11.24-00.48.38:589][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.24-00.48.38:595][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.24-00.48.38:823][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.24-00.48.38:832][  0]LogInit: Using OS detected language (ja-JP).
+[2022.11.24-00.48.38:832][  0]LogInit: Using OS detected locale (ja-JP).
+[2022.11.24-00.48.39:171][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so 'ja' will be used for the language.
+[2022.11.24-00.48.39:608][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.24-00.48.39:721][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.24-00.48.39:721][  0]LogWindowsTextInputMethodSystem:   - 日本語 (日本) - Microsoft IME (TSF IME).
+[2022.11.24-00.48.39:721][  0]LogWindowsTextInputMethodSystem:   - 日本語 (日本) - タッチ入力修正機能 (TSF IME).
+[2022.11.24-00.48.39:721][  0]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Microsoft IME (TSF IME).
+[2022.11.24-00.48.40:444][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.24-00.48.40:444][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.24-00.48.43:502][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.24-00.48.43:525][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.24-00.48.43:525][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.24-00.48.43:657][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.24-00.48.43:786][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.24-00.48.43:793][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.24-00.48.43:804][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.24-00.48.43:847][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.24-00.48.43:847][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.24-00.48.44:167][  0]LogD3D12RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.24-00.48.44:167][  0]LogWindows: EnumDisplayDevices:
+[2022.11.24-00.48.44:167][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2022.11.24-00.48.44:185][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2022.11.24-00.48.44:186][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2022.11.24-00.48.44:186][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2022.11.24-00.48.44:186][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.24-00.48.44:186][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2022.11.24-00.48.44:186][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.11.24-00.48.44:186][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.11.24-00.48.44:186][  0]LogRHI: Texture pool is 4563 MB (70% of 6519 MB)
+[2022.11.24-00.48.44:186][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.24-00.48.44:186][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.24-00.48.44:814][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.24-00.48.44:916][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="F:/UE4/sabaku/sabaku_rakuda/sabaku_rakuda.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UE4/sabaku/sabaku_rakuda/Intermediate/TurnkeyReport_0.log" -log="F:/UE4/sabaku/sabaku_rakuda/Intermediate/TurnkeyLog_0.log" -project="F:/UE4/sabaku/sabaku_rakuda/sabaku_rakuda.uproject"  -platform=all'
+[2022.11.24-00.48.44:938][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/game/unrial/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="F:/UE4/sabaku/sabaku_rakuda/sabaku_rakuda.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UE4/sabaku/sabaku_rakuda/Intermediate/TurnkeyReport_0.log" -log="F:/UE4/sabaku/sabaku_rakuda/Intermediate/TurnkeyLog_0.log" -project="F:/UE4/sabaku/sabaku_rakuda/sabaku_rakuda.uproject"  -platform=all" ]
+[2022.11.24-00.48.45:283][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2022.11.24-00.48.45:283][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.24-00.48.45:451][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.24-00.48.45:451][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.24-00.48.45:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.24-00.48.45:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.24-00.48.45:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.24-00.48.45:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.24-00.48.45:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.24-00.48.45:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.24-00.48.45:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.24-00.48.45:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.24-00.48.45:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.24-00.48.45:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.24-00.48.47:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.24-00.48.47:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.24-00.48.47:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.24-00.48.47:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.24-00.48.47:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.24-00.48.47:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.24-00.48.47:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.24-00.48.47:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.24-00.48.47:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.24-00.48.47:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.24-00.48.47:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.24-00.48.47:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.24-00.48.47:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.24-00.48.47:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.24-00.48.47:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.24-00.48.47:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.24-00.48.47:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.24-00.48.47:454][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.24-00.48.47:658][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.24-00.48.47:682][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.24-00.48.47:683][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.24-00.48.47:683][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.24-00.48.47:683][  0]LogTargetPlatformManager:   PCM
+[2022.11.24-00.48.47:698][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.24-00.48.47:698][  0]LogTargetPlatformManager:   BINKA
+[2022.11.24-00.48.47:698][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.24-00.48.47:698][  0]LogTargetPlatformManager:   OGG
+[2022.11.24-00.48.47:698][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.24-00.48.47:698][  0]LogTargetPlatformManager:   OPUS
+[2022.11.24-00.48.48:424][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.24-00.48.48:548][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.24-00.48.48:595][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.24-00.48.48:595][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.24-00.48.48:595][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.24-00.48.48:595][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.24-00.48.48:595][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.24-00.48.48:595][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.24-00.48.48:595][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.24-00.48.48:596][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.24-00.48.48:694][  0]LogShaderCompilers: Display: Compiling shader autogen file: F:/UE4/sabaku/sabaku_rakuda/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.24-00.48.48:706][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.24-00.48.48:706][  0]LogShaderCompilers: Display: Compiling shader autogen file: F:/UE4/sabaku/sabaku_rakuda/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.24-00.48.48:722][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.24-00.48.48:769][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/UE4/sabaku/sabaku_rakuda/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.24-00.48.48:770][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.24-00.48.48:770][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/UE4/sabaku/sabaku_rakuda/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.24-00.48.48:770][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.24-00.48.48:856][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.11.24-00.48.48:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.24-00.48.48:857][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.24-00.48.48:866][  0]LogDerivedDataCache: Speed tests for C:/Users/ryotawakutsu/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.24-00.48.48:867][  0]LogDerivedDataCache: Display: Performance to C:/Users/ryotawakutsu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=256.06MBs, RandomWriteSpeed=205.37MBs. Assigned SpeedClass 'Local'
+[2022.11.24-00.48.48:868][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ryotawakutsu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.24-00.48.48:868][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.24-00.48.48:868][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.24-00.48.48:893][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.24-00.48.48:893][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.24-00.48.48:957][  0]LogShaderCompilers: Guid format shader working directory is 25 characters bigger than the processId version (F:/UE4/sabaku/sabaku_rakuda/Intermediate/Shaders/WorkingDirectory/15172/).
+[2022.11.24-00.48.48:957][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ryotawakutsu/AppData/Local/Temp/UnrealShaderWorkingDir/D6A8C24448E92871D32507834C25E140/'.
+[2022.11.24-00.48.48:969][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.24-00.48.48:969][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.11.24-00.48.58:188][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.24-00.48.58:358][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.24-00.49.00:264][  0]LogAssetRegistry: FAssetRegistry took 0.0308 seconds to start up
+[2022.11.24-00.49.00:345][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.24-00.49.07:366][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.24-00.49.07:464][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.24-00.49.07:933][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.24-00.49.07:933][  0]LogDeviceProfileManager: Active device profile: [000004B70607C5C0][000004B706500000 50] WindowsEditor
+[2022.11.24-00.49.07:933][  0]LogDeviceProfileManager: Profiles: [000004B70607C780][000004B706505000 50] Windows, [000004B70607C5C0][000004B706500000 50] WindowsEditor, [000004B706078C00][000004B706502800 50] WindowsServer, [000004B706078A40][000004B6FEE92800 50] WindowsClient, [000004B70607A9C0][000004B70650C800 50] IOS, [000004B70607C240][000004B6FEE97800 50] iPadAir2, [000004B70607D200][000004B706515000 50] IPadPro, [000004B70607D580][000004B706510000 50] iPadAir3, [000004B706079680][000004B706512800 50] iPadAir4, [000004B706077FC0][000004B706507800 50] iPadMini4, [000004B70607D3C0][000004B706517800 50] iPadMini5, [000004B70607D740][000004B6FEE1A000 50] iPadMini6, [000004B7065A01C0][000004B706525000 50] iPhone6S, [000004B7065A0540][000004B706527800 50] iPhone7, [000004B7065A08C0][000004B70652A000 50] iPodTouch7, [000004B7065A2680][000004B70651A000 50] iPhone6SPlus, [000004B7065A1340][000004B70652C800 50] iPhone7Plus, [000004B7065A1DC0][000004B70650A000 50] iPhoneSE, [000004B7065A0C40][000004B6FEE95000 50] iPhone8, [000004B7065A2A00][000004B706522800 50] iPhone8Plus, [000004B7065A1500][000004B706532800 50] iPhoneX, [000004B7065A3640][000004B706530000 50] iPhoneXS, [000004B7065A2300][000004B70653A000 50] iPhoneXSMax, [000004B7065A2140][000004B706520000 50] iPhoneXR, [000004B7065A2D80][000004B70651C800 50] iPhone11, [000004B7065A3800][000004B706537800 50] iPhone11Pro, [000004B7065A0000][000004B7064C2800 50] iPhone11ProMax, [000004B7065A3B80][000004B7064C0000 50] iPhoneSE2, [000004B7065A0380][000004B7064CA000 50] iPhone12Mini, [000004B7065A1880][000004B706535000 50] iPhone12, [000004B7065A4600][000004B7064C5000 50] iPhone12Pro, [000004B7065A0E00][000004B7064C7800 50] iPhone12ProMax, [000004B7065A16C0][000004B706592800 50] iPhone13Mini, [000004B7065A1F80][000004B706590000 50] iPhone13, [000004B7065A47C0][000004B70659A000 50] iPhone13Pro, [000004B7065A1180][000004B7064CC800 50] iPhone13ProMax, [000004B7065A4B40][000004B6EE207800 50] iPadPro105, [000004B7065A3D40][000004B706597800 50] iPadPro129, [000004B7065A1A40][000004B706562800 50] iPadPro97, [000004B7065A55C0][000004B706560000 50] iPadPro2_129, [000004B7065A39C0][000004B70656A000 50] iPad5, [000004B7065A1C00][000004B706595000 50] iPad6, [000004B7065A3480][000004B706565000 50] iPad7, [000004B7065A5780][000004B706567800 50] iPad8, [000004B7065A2840][000004B706572800 50] iPad9, [000004B7065A5B00][000004B706570000 50] iPadPro11, [000004B7065A4D00][000004B70657A000 50] iPadPro2_11, [000004B7065A2BC0][000004B70656C800 50] iPadPro3_11, [000004B7065A6580][000004B70653C800 50] iPadPro3_129, [000004B7065A4980][000004B706577800 50] iPadPro4_129, [000004B7065A0700][000004B7065B2800 50] iPadPro5_129, [000004B7065A4440][000004B7065B0000 50] AppleTV, [000004B7065A6740][000004B7065BA000 50] AppleTV4K, [000004B7065A2F40][000004B706575000 50] TVOS, [000004B7065A8C00][000004B7065D5000 50] Mac, [000004B7065A8F80][000004B7065D0000 50] MacEditor, [000004B7065A0A80][000004B7065D2800 50] MacClient, [000004B7065A78C0][000004B7065B5000 50] MacServer, [000004B7065A5E80][000004B7065D7800 50] Linux, [000004B7065A6040][000004B7065DC800 50] LinuxEditor, [000004B7065A9300][000004B7065DA000 50] LinuxArm64Editor, [000004B7065A3100][000004B7065BC800 50] LinuxArm64, [000004B7065A94C0][000004B7065C2800 50] LinuxClient, [000004B7065A86C0][000004B7065C0000 50] LinuxArm64Client, [000004B7065A9680][000004B7065CA000 50] LinuxServer, [000004B7065A8340][000004B7065B7800 50] LinuxArm64Server, [000004B7065A5940][000004B70659C800 50] Android, [000004B7065A7E00][000004B7065C7800 50] Android_Preview_OpenGL, [000004B7065A5240][000004B7065E2800 50] Android_Preview_Vulkan, [000004B7065A7000][000004B7065E0000 50] Android_Low, [000004B7065A24C0][000004B7065EA000 50] Android_Mid, [000004B7065A7A80][000004B7065C5000 50] Android_High, [000004B7065A9840][000004B7065E5000 50] Android_Default, [000004B7065A8880][000004B7065E7800 50] Android_Adreno4xx, [000004B7065A7700][000004B7065F2800 50] Android_Adreno5xx_Low, [000004B7065A9A00][000004B7065F0000 50] Android_Adreno5xx, [000004B7065A9140][000004B7065FA000 50] Android_Adreno6xx, [000004B7065A40C0][000004B7065EC800 50] Android_Adreno6xx_Vulkan, [000004B7065A7380][000004B70657C800 50] Android_Adreno7xx, [000004B7065A4EC0][000004B7065F7800 50] Android_Adreno7xx_Vulkan, [000004B7065A8DC0][000004B706602800 50] Android_Mali_T6xx, [000004B7065A8180][000004B706600000 50] Android_Mali_T7xx, [000004B7065A9BC0][000004B70660A000 50] Android_Mali_T8xx, [000004B7065A6200][000004B7065F5000 50] Android_Mali_G71, [000004B7065AA480][000004B706605000 50] Android_Mali_G72, [000004B7065A6C80][000004B706607800 50] Android_Mali_G72_Vulkan, [000004B7065A32C0][000004B706612800 50] Android_Mali_G76, [000004B7065A6900][000004B706610000 50] Android_Mali_G76_Vulkan, [000004B7065AA640][000004B70661A000 50] Android_Mali_G77, [000004B7065A71C0][000004B70660C800 50] Android_Mali_G77_Vulkan, [000004B7065AA9C0][000004B7065CC800 50] Android_Mali_G78, [000004B7065A0FC0][000004B706617800 50] Android_Mali_G78_Vulkan, [000004B7065A6AC0][000004B706622800 50] Android_Mali_G710, [000004B7065AB440][000004B706620000 50] Android_Mali_G710_Vulkan, [000004B7065A7FC0][000004B70662A000 50] Android_Xclipse_920, [000004B7065A63C0][000004B706615000 50] Android_Xclipse_920_Vulkan, [000004B7065A8A40][000004B706625000 50] Android_Vulkan_SM5, [000004B7065A9D80][000004B706627800 50] Android_PowerVR_G6xxx, [000004B7065A6E40][000004B706632800 50] Android_PowerVR_GT7xxx, [000004B7065AB980][000004B706630000 50] Android_PowerVR_GE8xxx, [000004B7065AA100][000004B70663A000 50] Android_PowerVR_GM9xxx, [000004B7065AC400][000004B70662C800 50] Android_PowerVR_GM9xxx_Vulkan, [000004B7065A7540][000004B7065FC800 50] Android_TegraK1, [000004B7065ABB40][000004B706637800 50] Android_Unknown_Vulkan, [000004B7065AB0C0][000004B706642800 50] Oculus_Quest, [000004B7065AC5C0][000004B706640000 50] Oculus_Quest2, [000004B7065A5080][000004B70664A000 50] HoloLens, 
+[2022.11.24-00.49.07:933][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.24-00.49.08:731][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.24-00.49.10:105][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.24-00.49.10:105][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.24-00.49.10:105][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.24-00.49.10:105][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.24-00.49.10:105][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.24-00.49.10:792][  0]LogNetVersion: sabaku_rakuda 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3179543410)
+[2022.11.24-00.49.13:265][  0]LogSlate: Border
+[2022.11.24-00.49.13:265][  0]LogSlate: BreadcrumbButton
+[2022.11.24-00.49.13:265][  0]LogSlate: Default
+[2022.11.24-00.49.13:265][  0]LogSlate: Icons.Save
+[2022.11.24-00.49.13:265][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.24-00.49.13:265][  0]LogSlate: ListView
+[2022.11.24-00.49.13:265][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.24-00.49.13:265][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.24-00.49.13:265][  0]LogSlate: TableView.DarkRow
+[2022.11.24-00.49.13:265][  0]LogSlate: TableView.Row
+[2022.11.24-00.49.13:265][  0]LogSlate: TreeView
+[2022.11.24-00.49.20:521][  0]SourceControl: ソースコントロールは無効です
+[2022.11.24-00.49.21:039][  0]SourceControl: ソースコントロールは無効です
+[2022.11.24-00.49.21:039][  0]SourceControl: ソースコントロールは無効です
+[2022.11.24-00.49.22:458][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.24-00.49.22:459][  0]LogUObjectAllocator: 5584248 out of 0 bytes used by permanent object pool.
+[2022.11.24-00.49.22:459][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.24-00.49.30:597][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 6800CD754E77CC2E4F263BB14486C877 | Instance: 5F41684F4C6087EF9694B8BD70EE3572 (DESKTOP-AURECAI-15172).
+[2022.11.24-00.49.32:368][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.24-00.49.32:446][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.24-00.49.32:603][  0]LogPython: Using Python 3.9.7
+[2022.11.24-00.49.36:361][  0]SourceControl: ソースコントロールは無効です
+[2022.11.24-00.49.36:461][  0]SourceControl: ソースコントロールは無効です
+[2022.11.24-00.49.36:599][  0]SourceControl: ソースコントロールは無効です
+[2022.11.24-00.49.36:689][  0]LogUProjectInfo: Found projects:
+[2022.11.24-00.49.36:690][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.24-00.49.36:691][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.24-00.49.36:691][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.24-00.49.42:660][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.24-00.49.43:195][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.24-00.49.43:368][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.24-00.49.43:368][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.24-00.49.44:217][  0]LogCollectionManager: Loaded 0 collections in 0.001041 seconds
+[2022.11.24-00.49.45:106][  0]LogFileCache: Scanning file cache for directory 'F:/UE4/sabaku/sabaku_rakuda/Saved/Collections/' took 0.01s
+[2022.11.24-00.49.45:106][  0]LogFileCache: Scanning file cache for directory 'F:/UE4/sabaku/sabaku_rakuda/Content/Developers/和久津亮太/Collections/' took 0.01s
+[2022.11.24-00.49.45:106][  0]LogFileCache: Scanning file cache for directory 'F:/UE4/sabaku/sabaku_rakuda/Content/Collections/' took 0.01s
+[2022.11.24-00.49.49:542][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (3.09s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 2707ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2022.11.24-00.49.49:711][  0]LogEngine: Initializing Engine...
+[2022.11.24-00.49.50:365][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.24-00.49.50:397][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.11.24-00.49.52:903][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.24-00.49.52:974][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-00.49.53:350][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-00.49.53:932][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.24-00.49.54:067][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.24-00.49.54:149][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.24-00.49.54:171][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.24-00.49.54:171][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.24-00.49.54:240][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.24-00.49.54:240][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.24-00.49.54:263][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-00.49.54:263][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-00.49.54:264][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-00.49.54:264][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-00.49.54:264][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-00.49.54:264][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-00.49.54:264][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-00.49.54:264][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-00.49.54:267][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-00.49.54:267][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-00.49.54:267][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-00.49.54:323][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-00.49.54:387][  0]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Razer USB Sound Card)
+[2022.11.24-00.49.54:417][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-00.49.54:443][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-00.49.54:443][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-00.49.54:446][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.24-00.49.54:446][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.24-00.49.54:448][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.24-00.49.54:448][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.24-00.49.54:448][  0]LogInit: FAudioDevice initialized.
+[2022.11.24-00.49.54:450][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.24-00.49.54:474][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.11.24-00.49.54:474][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.24-00.49.54:480][  0]LogInit: Texture streaming: Enabled
+[2022.11.24-00.49.54:702][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.11.24-00.49.54:748][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.24-00.49.54:988][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.24-00.49.55:030][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.24-00.49.55:030][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.24-00.50.35:613][  0]LogLiveCoding: Display: First instance in process group "UE_sabaku_rakuda_0x219527f2", spawning console
+[2022.11.24-00.50.35:613][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.24-00.50.35:613][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.24-00.50.36:587][  0]LogInit: Transaction tracking system initialized
+[2022.11.24-00.50.37:637][  0]BlueprintLog: New page: エディタの読み込み
+[2022.11.24-00.50.39:252][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2022.11.24-00.50.39:582][  0]TimingProfiler: Initialize
+[2022.11.24-00.50.39:583][  0]TimingProfiler: OnSessionChanged
+[2022.11.24-00.50.39:584][  0]LoadingProfiler: Initialize
+[2022.11.24-00.50.39:584][  0]LoadingProfiler: OnSessionChanged
+[2022.11.24-00.50.39:598][  0]NetworkingProfiler: Initialize
+[2022.11.24-00.50.39:606][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.24-00.50.39:606][  0]MemoryProfiler: Initialize
+[2022.11.24-00.50.39:606][  0]MemoryProfiler: OnSessionChanged
+[2022.11.24-00.50.40:710][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.24-00.50.40:711][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.24-00.50.40:711][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.24-00.50.46:657][  0]LogFileCache: Scanning file cache for directory 'F:/UE4/sabaku/sabaku_rakuda/Content/' took 0.03s
+[2022.11.24-00.50.46:657][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.24-00.50.47:239][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.24-00.50.47:588][  0]SourceControl: ソースコントロールは無効です
+[2022.11.24-00.50.47:633][  0]LogUnrealEdMisc: Loading editor; pre map load, took 187.755
+[2022.11.24-00.50.47:662][  0]Cmd: MAP LOAD FILE="F:/UE4/sabaku/sabaku_rakuda/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.24-00.50.47:784][  0]LightingResults: New page: ライティングのビルド
+[2022.11.24-00.50.48:073][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-00.50.48:224][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-00.50.48:294][  0]MapCheck: New page: マップをチェック
+[2022.11.24-00.50.48:294][  0]LightingResults: New page: <何も選択されていません>
+[2022.11.24-00.50.49:124][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-00.50.49:294][  0]LogDerivedDataCache: C:/Users/ryotawakutsu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.288 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.24-00.50.49:482][  0]LogUObjectHash: Compacting FUObjectHashTables data took  27.75ms
+[2022.11.24-00.50.51:195][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.11.24-00.50.51:195][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-00.50.51:195][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-00.50.51:195][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.11.24-00.50.51:874][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.24-00.50.51:959][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.24-00.50.51:961][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.24-00.50.51:975][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 13.125ミリ秒かかりました。
+[2022.11.24-00.50.51:975][  0]LogFileHelpers: Loading map 'Minimal_Default' took 4.325
+[2022.11.24-00.50.54:276][  0]LogUnrealEdMisc: Total Editor Startup Time, took 194.400
+[2022.11.24-00.50.54:276][  0]LogShaderCompilers: Display: ================================================
+[2022.11.24-00.50.54:276][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.24-00.50.54:294][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.24-00.50.54:294][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.24-00.50.54:303][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.24-00.50.54:303][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.24-00.50.54:303][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.24-00.50.54:303][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.24-00.50.54:303][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.24-00.50.54:315][  0]LogShaderCompilers: Display: ================================================
+[2022.11.24-00.50.55:132][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.24-00.50.55:132][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.24-00.50.55:132][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.24-00.50.55:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-00.50.55:611][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-00.50.55:616][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-00.50.55:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-00.50.56:432][  0]LogPakFile: Display: Mounted Pak file 'D:/game/unrial/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.24-00.50.56:432][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.24-00.50.56:470][  0]LogPakFile: Display: Mounted Pak file 'D:/game/unrial/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.24-00.50.56:470][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.24-00.50.56:480][  0]LogPakFile: Display: Mounted Pak file 'D:/game/unrial/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.24-00.50.56:480][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.24-00.50.56:503][  0]LogPakFile: Display: Mounted Pak file 'D:/game/unrial/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.24-00.50.56:503][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.24-00.50.56:525][  0]LogPakFile: Display: Mounted Pak file 'D:/game/unrial/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.24-00.50.56:525][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.24-00.50.57:277][  0]LogPakFile: Display: Mounted Pak file 'D:/game/unrial/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.24-00.50.57:277][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.24-00.50.57:288][  0]LogPakFile: Display: Mounted Pak file 'D:/game/unrial/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.24-00.50.57:288][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.24-00.50.57:294][  0]LogPakFile: Display: Mounted Pak file 'D:/game/unrial/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.24-00.50.57:294][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.24-00.50.57:310][  0]LogPakFile: Display: Mounted Pak file 'D:/game/unrial/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.24-00.50.57:310][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.24-00.50.57:314][  0]LogPakFile: Display: Mounted Pak file 'D:/game/unrial/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.24-00.50.57:314][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.24-00.51.01:499][  0]LogSlate: Took 0.041646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.24-00.51.01:568][  0]LogSlate: Took 0.050495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2022.11.24-00.51.01:717][  0]LogSlate: Took 0.045360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2022.11.24-00.51.01:752][  0]LogSlate: Took 0.034689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.24-00.51.01:783][  0]LogSlate: Took 0.030057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.24-00.51.01:846][  0]LogSlate: Took 0.024823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.24-00.51.01:868][  0]LogSlate: Took 0.021939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.24-00.51.01:950][  0]LogSlate: Took 0.082928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2022.11.24-00.51.02:012][  0]LogSlate: Took 0.061206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2022.11.24-00.51.02:036][  0]LogSlate: Took 0.023769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2022.11.24-00.51.09:535][  0]LogStall: Startup...
+[2022.11.24-00.51.09:537][  0]LogStall: Startup complete.
+[2022.11.24-00.51.09:699][  0]LogLoad: (Engine Initialization) Total time: 209.81 seconds
+[2022.11.24-00.51.09:699][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.24-00.51.10:807][  0]LogAssetRegistry: Asset discovery search completed in 130.5453 seconds
+[2022.11.24-00.51.11:009][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.010899 seconds (updated 0 objects)
+[2022.11.24-00.51.11:360][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.24-00.51.14:305][  2]LogSlate: Took 0.064942 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.24-00.52.02:737][292]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Microsoft IME (TSF IME).
+[2022.11.24-00.52.04:635][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.24-00.52.04:654][444]Cmd: MAP LOAD FILE="F:/UE4/sabaku/sabaku_rakuda/Content/sabaku.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.24-00.52.04:655][444]LightingResults: New page: ライティングのビルド
+[2022.11.24-00.52.04:655][444]LoadErrors: New page: マップをロード中: sabaku.umap
+[2022.11.24-00.52.04:912][444]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-00.52.04:925][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-00.52.04:942][444]MapCheck: New page: マップをチェック
+[2022.11.24-00.52.04:942][444]LightingResults: New page: <何も選択されていません>
+[2022.11.24-00.52.04:956][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-00.52.05:109][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.24-00.52.11:983][444]LogAudio: Display: Audio Device (ID: 1) registered with world 'sabaku'.
+[2022.11.24-00.52.11:983][444]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-00.52.11:983][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-00.52.11:983][444]LogAIModule: Creating AISystem for world sabaku
+[2022.11.24-00.52.13:399][444]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.24-00.52.13:515][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.24-00.52.13:545][444]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.24-00.52.13:545][444]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.073ミリ秒かかりました。
+[2022.11.24-00.52.13:545][444]LogFileHelpers: Loading map 'sabaku' took 8.891
+[2022.11.24-00.52.13:569][444]LogSlate: Window 'レベルを開く' being destroyed
+[2022.11.24-00.54.57:536][651]LogSlate: Window 'アセットに名前を付けて保存' being destroyed
+[2022.11.24-00.54.57:690][651]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/NewLevelSequence.NewLevelSequence
+[2022.11.24-00.54.57:691][651]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/NewLevelSequence.NewLevelSequence
+[2022.11.24-00.54.58:066][651]LogActorFactory: Actor Factory spawned LevelSequence /Game/NewLevelSequence.NewLevelSequence as actor: LevelSequenceActor /Game/sabaku.sabaku:PersistentLevel.LevelSequenceActor_0
+[2022.11.24-00.54.58:086][651]LogActorFactory: Actor Factory spawned LevelSequence /Game/NewLevelSequence.NewLevelSequence as actor: LevelSequenceActor /Game/sabaku.sabaku:PersistentLevel.LevelSequenceActor_0
+[2022.11.24-00.54.58:415][651]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/NewLevelSequence.NewLevelSequence
+[2022.11.24-00.54.59:203][651]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.11.24-00.54.59:203][651]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.11.24-00.55.03:202][955]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-00.55.08:065][469]Cmd: TRANSACTION UNDO
+[2022.11.24-00.55.08:065][469]LogEditorTransaction: Undo 要素の移動
+[2022.11.24-00.55.22:511][965]Cmd: TRANSACTION UNDO
+[2022.11.24-00.55.22:511][965]LogEditorTransaction: Undo 要素の回転
+[2022.11.24-00.55.22:886][972]Cmd: TRANSACTION UNDO
+[2022.11.24-00.55.22:886][972]LogEditorTransaction: Undo 要素の回転
+[2022.11.24-00.55.23:394][ 11]Cmd: TRANSACTION UNDO
+[2022.11.24-00.55.23:394][ 11]LogEditorTransaction: Undo 要素の回転
+[2022.11.24-00.55.23:689][ 40]Cmd: TRANSACTION UNDO
+[2022.11.24-00.55.23:689][ 40]LogEditorTransaction: Undo 要素の拡大縮小
+[2022.11.24-00.55.23:961][ 68]Cmd: TRANSACTION UNDO
+[2022.11.24-00.55.23:961][ 68]LogEditorTransaction: Undo 要素の拡大縮小
+[2022.11.24-00.55.24:224][ 95]Cmd: TRANSACTION UNDO
+[2022.11.24-00.55.24:224][ 95]LogEditorTransaction: Undo 要素の拡大縮小
+[2022.11.24-00.55.24:487][122]Cmd: TRANSACTION UNDO
+[2022.11.24-00.55.24:487][122]LogEditorTransaction: Undo アクタを作成
+[2022.11.24-00.55.38:591][593]LogSlate: Window 'アセットに名前を付けて保存' being destroyed
+[2022.11.24-00.55.43:488][809]LogSlate: Window 'アセットに名前を付けて保存' being destroyed
+[2022.11.24-00.55.47:125][809]LogSlate: Window 'メッセージ' being destroyed
+[2022.11.24-00.55.47:129][809]Message dialog closed, result: Yes, title: メッセージ, text: クラス [LevelSequence] のオブジェクト [NewLevelSequence] はファイル [/Game/NewLevelSequence] に存在します。既存オブジェクトを置換しますか？「はい」をクリックすると既存オブジェクトは削除されます。削除しない場合は「いいえ」をクリックして新規オブジェクトに一意の名前をつけてください。
+[2022.11.24-00.55.52:921][809]LogSlate: Window 'メッセージ' being destroyed
+[2022.11.24-00.55.52:925][809]Message dialog closed, result: Cancel, title: メッセージ, text: LevelSequence /Game/NewLevelSequence.NewLevelSequence は使用中です。
+
+---
+オブジェクトが起動時にロードされる場合は、エディタに引数 '-NoLoadStartupPackages' を渡して実行すると動作する可能性があります。
+---
+
+
+External referencers of LevelSequence /Game/NewLevelSequence.NewLevelSequence:
+   GCObjectReferencer /Engine/Transient.GCObjectReferencer_0 (root) (3)
+      0) [[FGCObject FAssetEditorToolkit::FGCEditorObjects]]
+      1) [[FGCObject FAssetEditorToolkit::FGCEditorObjects]]
+      2) [[FGCObject FAssetEditorToolkit::FGCEditorObjects]]
+
+
+[2022.11.24-00.55.55:108][809]LogSlate: Window 'メッセージ' being destroyed
+[2022.11.24-00.55.55:113][809]Message dialog closed, result: Ok, title: メッセージ, text: NewLevelSequence は作成されませんでした。
+
+アセットは別のコンテンツに参照されています。
+[2022.11.24-00.55.59:052][ 76]LogSlate: Window 'アセットに名前を付けて保存' being destroyed
+[2022.11.24-00.55.59:059][ 76]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/NewLevelSequence1.NewLevelSequence1
+[2022.11.24-00.55.59:059][ 76]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/NewLevelSequence1.NewLevelSequence1
+[2022.11.24-00.55.59:060][ 76]LogActorFactory: Actor Factory spawned LevelSequence /Game/NewLevelSequence1.NewLevelSequence1 as actor: LevelSequenceActor /Game/sabaku.sabaku:PersistentLevel.LevelSequenceActor_1
+[2022.11.24-00.55.59:060][ 76]LogActorFactory: Actor Factory spawned LevelSequence /Game/NewLevelSequence1.NewLevelSequence1 as actor: LevelSequenceActor /Game/sabaku.sabaku:PersistentLevel.LevelSequenceActor_1
+[2022.11.24-00.55.59:070][ 76]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/NewLevelSequence1.NewLevelSequence1
+[2022.11.24-00.55.59:124][ 76]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.11.24-00.55.59:125][ 76]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.11.24-00.56.43:603][986]LogSlate: Took 0.012064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.24-00.59.51:389][110]Cmd: TRANSACTION UNDO
+[2022.11.24-00.59.51:389][110]LogEditorTransaction: Undo 現在の時間にキーを追加します
+[2022.11.24-01.07.48:615][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewLevelSequence1" FILE="F:/UE4/sabaku/sabaku_rakuda/Content/NewLevelSequence1.uasset" SILENT=true
+[2022.11.24-01.07.48:707][497]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.004993 seconds
+[2022.11.24-01.07.48:920][497]LogSavePackage: Moving output files for package: /Game/NewLevelSequence1
+[2022.11.24-01.07.48:920][497]LogSavePackage: Moving 'F:/UE4/sabaku/sabaku_rakuda/Saved/NewLevelSequence1222BBEFD4D62855F1F9B34A130CB3E1A.tmp' to 'F:/UE4/sabaku/sabaku_rakuda/Content/NewLevelSequence1.uasset'
+[2022.11.24-01.07.48:972][497]AssetCheck: New page: アセット保存：NewLevelSequence1
+[2022.11.24-01.07.48:972][497]LogContentValidation: Display: LevelSequence /Game/NewLevelSequence1.NewLevelSequence1 を検証しています
+[2022.11.24-01.08.32:416][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.24-01.08.36:445][809]LogSlate: Window 'コンテンツを保存' being destroyed
+[2022.11.24-01.08.36:495][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewLevelSequence" FILE="F:/UE4/sabaku/sabaku_rakuda/Content/NewLevelSequence.uasset" SILENT=true
+[2022.11.24-01.08.36:497][809]LogSavePackage: Moving output files for package: /Game/NewLevelSequence
+[2022.11.24-01.08.36:497][809]LogSavePackage: Moving 'F:/UE4/sabaku/sabaku_rakuda/Saved/NewLevelSequence1537B48C42937272E8D3B7A5AAD29EE1.tmp' to 'F:/UE4/sabaku/sabaku_rakuda/Content/NewLevelSequence.uasset'
+[2022.11.24-01.08.36:514][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sabaku" FILE="F:/UE4/sabaku/sabaku_rakuda/Content/sabaku.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.24-01.08.36:674][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.24-01.08.36:926][809]LogSavePackage: Moving output files for package: /Game/sabaku
+[2022.11.24-01.08.36:927][809]LogSavePackage: Moving 'F:/UE4/sabaku/sabaku_rakuda/Saved/sabakuC4A5F15D47C94EEBB77CFFB62264CD18.tmp' to 'F:/UE4/sabaku/sabaku_rakuda/Content/sabaku.umap'
+[2022.11.24-01.08.36:978][809]LogFileHelpers: 保存する新たな変更はありません！
+[2022.11.24-01.08.36:978][809]LogFileHelpers: Saving map 'sabaku' took 0.481
+[2022.11.24-01.08.36:983][809]LogTemp: Starting movie scene capture...
+[2022.11.24-01.08.36:997][809]AssetCheck: New page: アセット保存：複数のアセット
+[2022.11.24-01.08.36:997][809]LogContentValidation: Display: LevelSequence /Game/NewLevelSequence.NewLevelSequence を検証しています
+[2022.11.24-01.08.36:997][809]LogContentValidation: Display: World /Game/sabaku.sabaku を検証しています
+[2022.11.24-01.08.37:336][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-01.08.37:367][809]PIE: New page: PIEセッション: sabaku (2022/11/24 19:08:37)
+[2022.11.24-01.08.37:430][809]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.24-01.08.37:441][809]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.24-01.08.37:454][809]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sabaku
+[2022.11.24-01.08.37:516][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061511s)
+[2022.11.24-01.08.37:516][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sabaku.sabaku to /Game/UEDPIE_0_sabaku.sabaku (0.061931s)
+[2022.11.24-01.08.37:516][809]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-01.08.37:526][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-01.08.37:526][809]LogAIModule: Creating AISystem for world sabaku
+[2022.11.24-01.08.37:527][809]LogPlayLevel: PIE: World Init took: (0.011173s)
+[2022.11.24-01.08.37:537][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.24-01.08.37:562][809]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.24-01.08.37:562][809]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-01.08.37:562][809]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-01.08.37:562][809]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-01.08.37:562][809]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-01.08.37:562][809]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-01.08.37:562][809]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-01.08.37:562][809]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-01.08.37:562][809]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-01.08.37:562][809]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-01.08.37:562][809]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-01.08.37:562][809]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-01.08.37:576][809]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-01.08.37:603][809]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Razer USB Sound Card)
+[2022.11.24-01.08.37:603][809]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-01.08.37:603][809]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-01.08.37:603][809]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-01.08.37:604][809]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.24-01.08.37:604][809]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.24-01.08.37:605][809]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.24-01.08.37:605][809]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.24-01.08.37:605][809]LogInit: FAudioDevice initialized.
+[2022.11.24-01.08.37:606][809]LogAudio: Display: Audio Device (ID: 2) registered with world 'sabaku'.
+[2022.11.24-01.08.37:670][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-01.08.37:762][809]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2022.11.24-01.08.37:762][809]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2022.11.24-01.08.37:762][809]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2022.11.24-01.08.37:762][809]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2022.11.24-01.08.37:762][809]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2022.11.24-01.08.37:762][809]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2022.11.24-01.08.37:762][809]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2022.11.24-01.08.37:762][809]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2022.11.24-01.08.37:762][809]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2022.11.24-01.08.37:781][809]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2022.11.24-01.08.37:781][809]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2022.11.24-01.08.37:781][809]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.24-01.08.37:811][809]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.24-01.08.37:820][809]LogWorld: Bringing World /Game/UEDPIE_0_sabaku.sabaku up for play (max tick rate 0) at 2022.11.24-10.08.37
+[2022.11.24-01.08.37:842][809]LogWorld: Bringing up level for play took: 0.030264
+[2022.11.24-01.08.37:844][809]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.11.24-01.08.37:874][809]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.24-01.08.38:850][809]PIE: サーバーにログインしました
+[2022.11.24-01.08.38:853][809]PIE: PIE合計開始時間 1.849 秒。
+[2022.11.24-01.09.17:506][175]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.24-01.09.17:506][175]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.24-01.09.17:506][175]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.24-01.09.17:506][175]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.24-01.09.17:506][175]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.24-01.09.17:506][175]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.24-01.09.17:506][175]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.24-01.09.17:506][175]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2022.11.24-01.09.17:506][175]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.24-01.09.17:506][175]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.24-01.09.17:506][175]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.24-01.09.17:506][175]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.24-01.09.19:273][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-01.09.19:292][175]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sabaku
+[2022.11.24-01.09.19:292][175]LogSlate: Window 'ムービーレンダリング - プレビュー' being destroyed
+[2022.11.24-01.09.19:313][175]LogWorld: UWorld::CleanupWorld for sabaku, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-01.09.19:619][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-01.09.19:779][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-01.09.19:790][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-01.09.19:851][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.24-01.09.19:853][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.24-01.09.19:971][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.24-01.09.20:027][175]LogTemp: Movie Capture finished. Success: 1
+[2022.11.24-01.09.20:182][179]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.11.24-01.09.47:491][799]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.24-01.11.26:182][668]LogSlate: Window 'ムービーレンダリング設定' being destroyed
+[2022.11.24-01.12.03:463][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.24-01.12.03:467][644]LogTemp: Starting movie scene capture...
+[2022.11.24-01.12.03:477][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-01.12.03:477][644]PIE: New page: PIEセッション: sabaku (2022/11/24 19:12:03)
+[2022.11.24-01.12.03:477][644]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sabaku
+[2022.11.24-01.12.03:500][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022360s)
+[2022.11.24-01.12.03:500][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sabaku.sabaku to /Game/UEDPIE_0_sabaku.sabaku (0.022437s)
+[2022.11.24-01.12.03:500][644]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-01.12.03:500][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-01.12.03:500][644]LogAIModule: Creating AISystem for world sabaku
+[2022.11.24-01.12.03:501][644]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2022.11.24-01.12.03:508][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.24-01.12.03:509][644]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.24-01.12.03:509][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-01.12.03:509][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-01.12.03:509][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-01.12.03:509][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-01.12.03:509][644]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-01.12.03:509][644]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-01.12.03:509][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-01.12.03:509][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-01.12.03:510][644]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-01.12.03:510][644]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-01.12.03:510][644]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-01.12.03:579][644]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-01.12.03:627][644]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Razer USB Sound Card)
+[2022.11.24-01.12.03:627][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-01.12.03:627][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-01.12.03:627][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-01.12.03:628][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.24-01.12.03:628][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.11.24-01.12.03:629][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.24-01.12.03:629][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.24-01.12.03:629][644]LogInit: FAudioDevice initialized.
+[2022.11.24-01.12.03:629][644]LogAudio: Display: Audio Device (ID: 3) registered with world 'sabaku'.
+[2022.11.24-01.12.03:629][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-01.12.03:663][644]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2022.11.24-01.12.03:663][644]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2022.11.24-01.12.03:663][644]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2022.11.24-01.12.03:663][644]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2022.11.24-01.12.03:663][644]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2022.11.24-01.12.03:663][644]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2022.11.24-01.12.03:663][644]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2022.11.24-01.12.03:663][644]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2022.11.24-01.12.03:663][644]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2022.11.24-01.12.03:663][644]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2022.11.24-01.12.03:663][644]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2022.11.24-01.12.03:663][644]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.24-01.12.03:684][644]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.24-01.12.03:685][644]LogWorld: Bringing World /Game/UEDPIE_0_sabaku.sabaku up for play (max tick rate 0) at 2022.11.24-10.12.03
+[2022.11.24-01.12.03:685][644]LogWorld: Bringing up level for play took: 0.001615
+[2022.11.24-01.12.03:687][644]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.11.24-01.12.03:687][644]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.24-01.12.03:696][644]PIE: サーバーにログインしました
+[2022.11.24-01.12.03:699][644]PIE: PIE合計開始時間 0.222 秒。
+[2022.11.24-01.12.37:624][  9]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.24-01.12.37:624][  9]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.24-01.12.37:624][  9]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.24-01.12.37:624][  9]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.24-01.12.37:624][  9]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.24-01.12.37:624][  9]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.24-01.12.37:624][  9]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.24-01.12.37:624][  9]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2022.11.24-01.12.37:624][  9]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.24-01.12.37:624][  9]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.24-01.12.37:624][  9]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.24-01.12.37:624][  9]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.24-01.12.37:931][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-01.12.37:931][  9]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sabaku
+[2022.11.24-01.12.37:931][  9]LogSlate: Window 'ムービーレンダリング - プレビュー' being destroyed
+[2022.11.24-01.12.37:936][  9]LogWorld: UWorld::CleanupWorld for sabaku, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-01.12.37:936][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-01.12.37:939][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-01.12.37:942][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-01.12.37:947][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-01.12.37:947][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.24-01.12.37:948][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.24-01.12.37:955][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.24-01.12.37:999][  9]LogTemp: Movie Capture finished. Success: 1
+[2022.11.24-01.12.38:076][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.11.24-01.14.07:101][884]LogSlate: Window 'ムービーレンダリング設定' being destroyed
+[2022.11.24-01.14.11:816][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sabaku" FILE="F:/UE4/sabaku/sabaku_rakuda/Content/sabaku.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.24-01.14.11:831][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.24-01.14.12:141][271]LogSavePackage: Moving output files for package: /Game/sabaku
+[2022.11.24-01.14.12:141][271]LogSavePackage: Moving 'F:/UE4/sabaku/sabaku_rakuda/Saved/sabaku5870D0F54B74D2E4FF3A699C400EC388.tmp' to 'F:/UE4/sabaku/sabaku_rakuda/Content/sabaku.umap'
+[2022.11.24-01.14.12:152][271]LogFileHelpers: 保存する新たな変更はありません！
+[2022.11.24-01.14.12:160][271]AssetCheck: New page: アセット保存：sabaku
+[2022.11.24-01.14.12:160][271]LogContentValidation: Display: World /Game/sabaku.sabaku を検証しています
+[2022.11.24-01.50.49:491][286]LogDerivedDataCache: C:/Users/ryotawakutsu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.300 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.24-02.25.41:516][299]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\UE4\rakuda.fbx)
+[2022.11.24-02.25.41:635][299]LogFbx: Loading FBX Scene from F:\UE4\rakuda.fbx
+[2022.11.24-02.25.41:670][299]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.24-02.25.46:763][299]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2022.11.24-02.25.48:021][299]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0F5A3A8A80D40CAD053C9940D0EAEE26C6E41CE8), compiling. 
+[2022.11.24-02.25.48:176][299]LogFbx: Display: Triangulating static mesh pCube34
+[2022.11.24-02.25.49:198][299]LogStaticMesh: Display: スタティックメッシュ rakuda をビルド中...
+[2022.11.24-02.25.49:804][299]LogStaticMesh: Built static mesh [0.83s] /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.25.51:002][299]FBXImport: Warning: このFBXシーンにはスムージンググループ情報がありません。ファイルをエクスポートする前に必ずFBX Exporter プラグインの[Export Smoothing Groups] オプションを有効にしてください。スムージング グループをサポートしないツールの場合でも、インポート中に正しい頂点法線を推測するため、FBX Exporter はエクスポート時に適切なスムージング データを生成します。 
+[2022.11.24-02.25.51:319][299]LogMeshUtilities: Finished distance field build in 1.5s - 7x7x7 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 11770 triangles, rakuda
+[2022.11.24-02.25.51:339][299]LogStaticMesh: Display: スタティック メッシュの準備ができるのを待ってます。0/1 (/Game/LevelPrototyping/Meshes/rakuda)…
+[2022.11.24-02.25.53:992][521]LogSlate: Window 'メッセージ ログ' being destroyed
+[2022.11.24-02.25.53:999][521]LogSlate: Window 'メッセージ ログ' being destroyed
+[2022.11.24-02.25.56:458][693]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.25.56:461][693]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.25.56:462][693]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_0
+[2022.11.24-02.25.58:516][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.25.58:516][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.25.58:517][816]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_2
+[2022.11.24-02.25.59:966][861]LogShaderCompilers: Display: ================================================
+[2022.11.24-02.25.59:966][861]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.24-02.25.59:966][861]LogShaderCompilers: Display: Total job queries 6, among them cache hits 0 (0.00%)
+[2022.11.24-02.25.59:966][861]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.11.24-02.25.59:966][861]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.24-02.25.59:966][861]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.24-02.25.59:966][861]LogShaderCompilers: Display: Shaders Compiled: 2
+[2022.11.24-02.25.59:966][861]LogShaderCompilers: Display: Jobs assigned 6, completed 1 (16.67%)
+[2022.11.24-02.25.59:966][861]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2022.11.24-02.25.59:966][861]LogShaderCompilers: Display: Job execution time: average 8.05 s, max 8.05 s
+[2022.11.24-02.26.00:018][861]LogShaderCompilers: Display: Job life time (pending + execution): average 8.11 s, max 8.11
+[2022.11.24-02.26.00:018][861]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.11 s
+[2022.11.24-02.26.00:018][861]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.24-02.26.00:018][861]LogShaderCompilers: Display: Average processing rate: 0.12 jobs/sec
+[2022.11.24-02.26.00:018][861]LogShaderCompilers: Display: Effective parallelization: 0.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.24-02.26.00:018][861]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.11.24-02.26.00:018][861]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2022.11.24-02.26.00:018][861]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.11.24-02.26.00:018][861]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2022.11.24-02.26.00:018][861]LogShaderCompilers: Display: ================================================
+[2022.11.24-02.26.00:758][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.11.24-02.26.00:791][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sabaku" FILE="F:/UE4/sabaku/sabaku_rakuda/Saved/Autosaves/Game/sabaku_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.11.24-02.26.00:992][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/sabaku_Auto1
+[2022.11.24-02.26.00:993][864]LogSavePackage: Moving 'F:/UE4/sabaku/sabaku_rakuda/Saved/sabaku_Auto1C8D86CCE4621D6DDE82C1D929E9FE7E2.tmp' to 'F:/UE4/sabaku/sabaku_rakuda/Saved/Autosaves/Game/sabaku_Auto1.umap'
+[2022.11.24-02.26.00:998][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/sabaku' took 0.298
+[2022.11.24-02.26.00:998][864]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.298
+[2022.11.24-02.26.01:011][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Meshes/rakuda] ([1] browsable assets)...
+[2022.11.24-02.26.01:022][864]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda]
+[2022.11.24-02.26.01:023][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/rakuda]
+[2022.11.24-02.26.01:023][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Meshes/rakuda" FILE="F:/UE4/sabaku/sabaku_rakuda/Saved/Autosaves/Game/LevelPrototyping/Meshes/rakuda_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.11.24-02.26.01:111][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/rakuda_Auto1
+[2022.11.24-02.26.01:111][864]LogSavePackage: Moving 'F:/UE4/sabaku/sabaku_rakuda/Saved/rakuda_Auto1FC1F3B324F5B53C77819F4B1E1FCEA30.tmp' to 'F:/UE4/sabaku/sabaku_rakuda/Saved/Autosaves/Game/LevelPrototyping/Meshes/rakuda_Auto1.uasset'
+[2022.11.24-02.26.01:126][864]LogFileHelpers: Auto-saving content packages took 0.102
+[2022.11.24-02.26.10:428][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.26.13:277][ 75]Cmd: TRANSACTION UNDO
+[2022.11.24-02.26.13:277][ 75]LogEditorTransaction: Undo 要素の拡大縮小
+[2022.11.24-02.26.13:688][ 78]Cmd: TRANSACTION UNDO
+[2022.11.24-02.26.13:688][ 78]LogEditorTransaction: Undo 複数のアクタを作成
+[2022.11.24-02.26.17:599][434]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.26.17:600][434]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.26.17:600][434]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_3
+[2022.11.24-02.26.18:433][529]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.26.18:433][529]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.26.18:433][529]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_4
+[2022.11.24-02.26.23:913][117]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.28.11:051][ 24]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.28.45:169][670]LogDebuggerCommands: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2022.11.24-02.28.45:502][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-02.28.45:503][670]PIE: New page: PIEセッション: sabaku (2022/11/24 20:28:45)
+[2022.11.24-02.28.45:542][670]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sabaku
+[2022.11.24-02.28.45:619][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075892s)
+[2022.11.24-02.28.45:619][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sabaku.sabaku to /Game/UEDPIE_0_sabaku.sabaku (0.075998s)
+[2022.11.24-02.28.45:619][670]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-02.28.45:620][670]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-02.28.45:620][670]LogAIModule: Creating AISystem for world sabaku
+[2022.11.24-02.28.45:635][670]LogPlayLevel: PIE: World Init took: (0.015819s)
+[2022.11.24-02.28.45:641][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.24-02.28.45:643][670]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.24-02.28.45:643][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-02.28.45:643][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-02.28.45:643][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-02.28.45:643][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-02.28.45:643][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-02.28.45:643][670]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-02.28.45:643][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-02.28.45:643][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-02.28.45:643][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-02.28.45:643][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-02.28.45:644][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-02.28.45:656][670]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-02.28.45:687][670]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Razer USB Sound Card)
+[2022.11.24-02.28.45:687][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-02.28.45:687][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-02.28.45:687][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-02.28.45:688][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.11.24-02.28.45:688][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.11.24-02.28.45:689][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.11.24-02.28.45:689][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.11.24-02.28.45:690][670]LogInit: FAudioDevice initialized.
+[2022.11.24-02.28.45:690][670]LogAudio: Display: Audio Device (ID: 4) registered with world 'sabaku'.
+[2022.11.24-02.28.45:752][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-02.28.45:752][670]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.24-02.28.45:755][670]LogWorld: Bringing World /Game/UEDPIE_0_sabaku.sabaku up for play (max tick rate 0) at 2022.11.24-11.28.45
+[2022.11.24-02.28.45:755][670]LogWorld: Bringing up level for play took: 0.002312
+[2022.11.24-02.28.45:757][670]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.11.24-02.28.45:823][670]PIE: サーバーにログインしました
+[2022.11.24-02.28.45:824][670]PIE: PIE合計開始時間 0.321 秒。
+[2022.11.24-02.29.07:684][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-02.29.07:684][893]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sabaku
+[2022.11.24-02.29.07:684][893]LogSlate: Window 'sabaku_rakuda プレビュー [NetMode: Standalone]  (64-ビット/SM5)' being destroyed
+[2022.11.24-02.29.07:690][893]LogWorld: UWorld::CleanupWorld for sabaku, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-02.29.07:691][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.29.07:699][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-02.29.07:711][893]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: sabaku, Actor: /Game/UEDPIE_0_sabaku.sabaku:PersistentLevel.Cine Camera Actor_1
+[2022.11.24-02.29.07:715][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.29.07:720][893]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-02.29.07:721][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.24-02.29.07:722][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.24-02.29.07:729][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.24-02.29.07:788][894]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.11.24-02.29.09:695][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.29.09:695][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.29.09:695][ 48]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_5
+[2022.11.24-02.29.10:374][120]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.29.10:374][120]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda
+[2022.11.24-02.29.10:374][120]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/rakuda.rakuda as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_6
+[2022.11.24-02.29.16:774][752]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.29.22:470][305]LogDebuggerCommands: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2022.11.24-02.29.22:477][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-02.29.22:477][305]PIE: New page: PIEセッション: sabaku (2022/11/24 20:29:22)
+[2022.11.24-02.29.22:512][305]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sabaku
+[2022.11.24-02.29.22:532][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019251s)
+[2022.11.24-02.29.22:532][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sabaku.sabaku to /Game/UEDPIE_0_sabaku.sabaku (0.019411s)
+[2022.11.24-02.29.22:532][305]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-02.29.22:532][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-02.29.22:532][305]LogAIModule: Creating AISystem for world sabaku
+[2022.11.24-02.29.22:533][305]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2022.11.24-02.29.22:564][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.11.24-02.29.22:567][305]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.11.24-02.29.22:567][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-02.29.22:567][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-02.29.22:567][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-02.29.22:567][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-02.29.22:567][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-02.29.22:567][305]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-02.29.22:567][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-02.29.22:567][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-02.29.22:567][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-02.29.22:567][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-02.29.22:567][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-02.29.22:569][305]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-02.29.22:595][305]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Razer USB Sound Card)
+[2022.11.24-02.29.22:596][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-02.29.22:596][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-02.29.22:596][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-02.29.22:596][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.11.24-02.29.22:596][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.11.24-02.29.22:598][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.11.24-02.29.22:598][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.11.24-02.29.22:598][305]LogInit: FAudioDevice initialized.
+[2022.11.24-02.29.22:598][305]LogAudio: Display: Audio Device (ID: 5) registered with world 'sabaku'.
+[2022.11.24-02.29.22:649][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-02.29.22:650][305]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.24-02.29.22:652][305]LogWorld: Bringing World /Game/UEDPIE_0_sabaku.sabaku up for play (max tick rate 0) at 2022.11.24-11.29.22
+[2022.11.24-02.29.22:652][305]LogWorld: Bringing up level for play took: 0.002251
+[2022.11.24-02.29.22:654][305]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.11.24-02.29.22:699][305]PIE: サーバーにログインしました
+[2022.11.24-02.29.22:699][305]PIE: PIE合計開始時間 0.223 秒。
+[2022.11.24-02.30.09:853][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-02.30.09:853][245]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sabaku
+[2022.11.24-02.30.09:854][245]LogSlate: Window 'sabaku_rakuda プレビュー [NetMode: Standalone]  (64-ビット/SM5)' being destroyed
+[2022.11.24-02.30.09:860][245]LogWorld: UWorld::CleanupWorld for sabaku, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-02.30.09:861][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.30.09:871][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-02.30.09:871][245]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: sabaku, Actor: /Game/UEDPIE_0_sabaku.sabaku:PersistentLevel.Cine Camera Actor_1
+[2022.11.24-02.30.09:874][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.30.09:879][245]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-02.30.09:880][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.24-02.30.09:883][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.24-02.30.09:890][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.24-02.30.10:211][246]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.11.24-02.30.15:048][702]Cmd: DELETE
+[2022.11.24-02.30.15:048][702]Cmd: ACTOR DELETE
+[2022.11.24-02.30.15:647][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.24-02.30.15:652][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.24-02.30.15:654][702]LogEditorActor: Deleted 1 Actors (0.141 secs)
+[2022.11.24-02.30.37:631][391]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\UE4\neko.fbx)
+[2022.11.24-02.30.37:636][391]LogFbx: Loading FBX Scene from F:\UE4\neko.fbx
+[2022.11.24-02.30.37:642][391]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.24-02.30.40:672][391]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2022.11.24-02.30.40:690][391]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: AF2CF43386161AE766C5B5A6D12D0CC8B18B1317), compiling. 
+[2022.11.24-02.30.40:704][391]LogMaterial: Display: Missing cached shadermap for lambert_faceparts in PCD3D_SM5, Default, SM5 (DDC key hash: 184A3B814C4723D7A1B813FE2BEC2818271730E7), compiling. 
+[2022.11.24-02.30.40:706][391]LogFbx: Display: Triangulating static mesh body_grp1
+[2022.11.24-02.30.40:751][391]LogStaticMesh: Display: スタティックメッシュ neko をビルド中...
+[2022.11.24-02.30.40:772][391]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/neko.neko
+[2022.11.24-02.30.40:814][391]FBXImport: Warning: このFBXシーンにはスムージンググループ情報がありません。ファイルをエクスポートする前に必ずFBX Exporter プラグインの[Export Smoothing Groups] オプションを有効にしてください。スムージング グループをサポートしないツールの場合でも、インポート中に正しい頂点法線を推測するため、FBX Exporter はエクスポート時に適切なスムージング データを生成します。 
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: ================================================
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Total job queries 14, among them cache hits 0 (0.00%)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Tracking 7 distinct input hashes that result in 4 distinct outputs (57.14%)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Shaders Compiled: 6
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Jobs assigned 14, completed 7 (50.00%)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Average time worker was idle: 280.90 s
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Job execution time: average 5.87 s, max 8.46 s
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Job life time (pending + execution): average 5.93 s, max 8.54
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.18 s
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Average processing rate: 0.76 jobs/sec
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Effective parallelization: 0.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 18.25% of total time (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.58% of total time (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 16.65% of total time (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.62% of total time (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.36% of total time (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2022.11.24-02.30.41:663][426]LogShaderCompilers: Display: ================================================
+[2022.11.24-02.30.42:590][490]LogSlate: Window 'メッセージ ログ' being destroyed
+[2022.11.24-02.30.42:597][490]LogSlate: Window 'メッセージ ログ' being destroyed
+[2022.11.24-02.30.44:389][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/neko.neko
+[2022.11.24-02.30.44:389][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/neko.neko
+[2022.11.24-02.30.44:389][631]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/neko.neko as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_7
+[2022.11.24-02.30.44:914][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/neko.neko
+[2022.11.24-02.30.44:914][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/neko.neko
+[2022.11.24-02.30.44:914][680]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/neko.neko as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_8
+[2022.11.24-02.30.47:301][903]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.31.25:676][743]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.33.10:215][ 53]LogDebuggerCommands: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2022.11.24-02.33.10:507][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-02.33.10:507][ 53]PIE: New page: PIEセッション: sabaku (2022/11/24 20:33:10)
+[2022.11.24-02.33.10:507][ 53]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_sabaku
+[2022.11.24-02.33.10:528][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020072s)
+[2022.11.24-02.33.10:528][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/sabaku.sabaku to /Game/UEDPIE_0_sabaku.sabaku (0.020176s)
+[2022.11.24-02.33.10:528][ 53]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-02.33.10:528][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-02.33.10:528][ 53]LogAIModule: Creating AISystem for world sabaku
+[2022.11.24-02.33.10:528][ 53]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2022.11.24-02.33.10:535][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.24-02.33.10:537][ 53]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.11.24-02.33.10:538][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-02.33.10:538][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-02.33.10:538][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-02.33.10:538][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-02.33.10:538][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-02.33.10:538][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-02.33.10:538][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-02.33.10:538][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-02.33.10:538][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-02.33.10:538][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-02.33.10:538][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-02.33.10:540][ 53]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-02.33.10:567][ 53]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Razer USB Sound Card)
+[2022.11.24-02.33.10:567][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-02.33.10:567][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-02.33.10:567][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-02.33.10:567][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.11.24-02.33.10:567][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.11.24-02.33.10:569][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.11.24-02.33.10:569][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.11.24-02.33.10:569][ 53]LogInit: FAudioDevice initialized.
+[2022.11.24-02.33.10:569][ 53]LogAudio: Display: Audio Device (ID: 6) registered with world 'sabaku'.
+[2022.11.24-02.33.10:628][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-02.33.10:628][ 53]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.11.24-02.33.10:630][ 53]LogWorld: Bringing World /Game/UEDPIE_0_sabaku.sabaku up for play (max tick rate 0) at 2022.11.24-11.33.10
+[2022.11.24-02.33.10:631][ 53]LogWorld: Bringing up level for play took: 0.002536
+[2022.11.24-02.33.10:633][ 53]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.11.24-02.33.10:638][ 53]PIE: サーバーにログインしました
+[2022.11.24-02.33.10:639][ 53]PIE: PIE合計開始時間 0.132 秒。
+[2022.11.24-02.34.56:893][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-02.34.56:893][386]LogWorld: BeginTearingDown for /Game/UEDPIE_0_sabaku
+[2022.11.24-02.34.56:896][386]LogSlate: Window 'sabaku_rakuda プレビュー [NetMode: Standalone]  (64-ビット/SM5)' being destroyed
+[2022.11.24-02.34.56:903][386]LogWorld: UWorld::CleanupWorld for sabaku, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-02.34.56:903][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.34.56:916][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-02.34.56:916][386]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: sabaku, Actor: /Game/UEDPIE_0_sabaku.sabaku:PersistentLevel.Cine Camera Actor_1
+[2022.11.24-02.34.56:919][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-02.34.56:925][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-02.34.56:925][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.11.24-02.34.56:927][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.11.24-02.34.56:934][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.24-02.34.57:256][387]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.11.24-02.38.58:667][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.24-02.38.58:669][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sabaku" FILE="F:/UE4/sabaku/sabaku_rakuda/Saved/Autosaves/Game/sabaku_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.11.24-02.38.58:854][301]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/sabaku_Auto2
+[2022.11.24-02.38.58:857][301]LogSavePackage: Moving 'F:/UE4/sabaku/sabaku_rakuda/Saved/sabaku_Auto2FAE554A2462FDB8B83839C96C94DB58F.tmp' to 'F:/UE4/sabaku/sabaku_rakuda/Saved/Autosaves/Game/sabaku_Auto2.umap'
+[2022.11.24-02.38.58:874][301]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/sabaku' took 0.212
+[2022.11.24-02.38.58:874][301]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.212
+[2022.11.24-02.38.58:874][301]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Meshes/neko] ([1] browsable assets)...
+[2022.11.24-02.38.58:969][301]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Meshes/neko.neko]
+[2022.11.24-02.38.58:969][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/neko]
+[2022.11.24-02.38.58:969][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Meshes/neko" FILE="F:/UE4/sabaku/sabaku_rakuda/Saved/Autosaves/Game/LevelPrototyping/Meshes/neko_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.11.24-02.38.58:977][301]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/neko_Auto2
+[2022.11.24-02.38.58:977][301]LogSavePackage: Moving 'F:/UE4/sabaku/sabaku_rakuda/Saved/neko_Auto2E1CBF87042343CA9E01DB4AF5A3CCEC7.tmp' to 'F:/UE4/sabaku/sabaku_rakuda/Saved/Autosaves/Game/LevelPrototyping/Meshes/neko_Auto2.uasset'
+[2022.11.24-02.38.58:978][301]LogFileHelpers: Auto-saving content packages took 0.103
+[2022.11.24-02.43.55:527][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2022.11.24-02.43.55:527][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2022.11.24-02.43.55:527][359]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_9
+[2022.11.24-02.43.55:544][359]LogStaticMesh: Display: スタティック メッシュの準備ができるのを待ってます。0/1 (/Game/LevelPrototyping/Meshes/SM_ChamferCube)…
+[2022.11.24-02.43.56:487][391]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2022.11.24-02.43.56:488][391]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2022.11.24-02.43.56:488][391]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_10
+[2022.11.24-02.44.22:673][123]Cmd: DELETE
+[2022.11.24-02.44.22:673][123]Cmd: ACTOR DELETE
+[2022.11.24-02.44.22:676][123]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.24-02.44.22:681][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.24-02.44.22:683][123]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.11.24-02.47.35:480][120]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\UE4\kabe.fbx)
+[2022.11.24-02.47.35:489][120]LogFbx: Loading FBX Scene from F:\UE4\kabe.fbx
+[2022.11.24-02.47.35:494][120]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.24-02.47.38:340][120]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2022.11.24-02.47.38:456][120]LogFbx: Display: Triangulating static mesh pPlane1
+[2022.11.24-02.47.38:462][120]LogStaticMesh: Display: スタティックメッシュ kabe をビルド中...
+[2022.11.24-02.47.38:466][120]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/kabe.kabe
+[2022.11.24-02.47.38:504][120]FBXImport: Warning: このFBXシーンにはスムージンググループ情報がありません。ファイルをエクスポートする前に必ずFBX Exporter プラグインの[Export Smoothing Groups] オプションを有効にしてください。スムージング グループをサポートしないツールの場合でも、インポート中に正しい頂点法線を推測するため、FBX Exporter はエクスポート時に適切なスムージング データを生成します。 
+[2022.11.24-02.47.39:740][209]LogSlate: Window 'メッセージ ログ' being destroyed
+[2022.11.24-02.47.39:746][209]LogSlate: Window 'メッセージ ログ' being destroyed
+[2022.11.24-02.47.42:624][443]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/kabe.kabe
+[2022.11.24-02.47.42:624][443]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/kabe.kabe
+[2022.11.24-02.47.42:626][443]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/kabe.kabe as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_11
+[2022.11.24-02.47.44:820][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/kabe.kabe
+[2022.11.24-02.47.44:820][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/kabe.kabe
+[2022.11.24-02.47.44:821][692]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/kabe.kabe as actor: StaticMeshActor /Game/sabaku.sabaku:PersistentLevel.StaticMeshActor_12
+[2022.11.24-02.48.24:008][653]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.48.29:949][298]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.48.31:254][444]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.48.40:618][494]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.49.05:878][140]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.49.09:293][520]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.49.23:360][110]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.49.34:128][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sabaku" FILE="F:/UE4/sabaku/sabaku_rakuda/Content/sabaku.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.24-02.49.34:170][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.11.24-02.49.34:431][111]LogSavePackage: Moving output files for package: /Game/sabaku
+[2022.11.24-02.49.34:432][111]LogSavePackage: Moving 'F:/UE4/sabaku/sabaku_rakuda/Saved/sabaku9458FBB44290C748CC4ECEBBB6020234.tmp' to 'F:/UE4/sabaku/sabaku_rakuda/Content/sabaku.umap'
+[2022.11.24-02.49.34:449][111]LogFileHelpers: 保存する新たな変更はありません！
+[2022.11.24-02.49.34:483][111]AssetCheck: New page: アセット保存：sabaku
+[2022.11.24-02.49.34:483][111]LogContentValidation: Display: World /Game/sabaku.sabaku を検証しています
+[2022.11.24-02.49.38:591][497]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.49.50:087][803]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.49.59:432][743]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.50.11:207][106]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.50.14:042][420]Cmd: DELETE
+[2022.11.24-02.50.14:042][420]Cmd: ACTOR DELETE
+[2022.11.24-02.50.14:045][420]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.24-02.50.14:053][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.24-02.50.14:056][420]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.11.24-02.50.25:550][621]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.50.40:113][278]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.24-02.50.49:529][336]LogDerivedDataCache: C:/Users/ryotawakutsu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.642 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.24-02.55.00:071][ 72]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/kabe.kabe
